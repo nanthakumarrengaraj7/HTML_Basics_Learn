@@ -1,0 +1,109 @@
+/* element selector */
+/* h1{
+    color: red;
+} */
+
+/* class selector */
+/* .text{
+    color:violet
+} */
+
+/* id selector */
+/* #sampleId {
+  color: blue;
+} */
+
+/* univarsal selector
+* {
+  color: aqua;
+} */
+
+/* hover */
+/* button:hover{ */
+/* background: red; */
+/* color: blue; text color change agum */
+/* } */
+
+/* active */
+
+/* button:active {
+  /* color: red; click pannum pothu athoda text color red color la marum */
+/* background: red; athoda background change pannum */
+/* }  */
+
+/* focus */
+/* input:focus {
+  border: 3px solid violet; input border ah suthi color varum
+} */
+
+/* /* :focus-visible */
+/* button:focus-visible{
+    outline: 3px solid orange; mostly namma keyboard vachi check pannum pothu athu work agum like namma tab button ah vachi click pannum pothu work agum
+}  */
+
+/* :focus-within */
+
+/* .box:focus-within {
+  border: 2px solid red;
+  background-color: #f0f8ff;
+} */
+
+/* .box {
+  border: 2px solid lightgray;
+  padding: 20px;
+}
+
+.box:focus-within {
+  border-color: green;
+} */
+
+/* .menu {
+  display: none;
+}
+
+.drobdown:focus-within .menu {
+  display: block;
+} */
+
+/* anchor tag */
+
+/* a{
+    text-decoration: none;
+}
+a:visited{
+    color:purple
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+} */
+
+/* a:active{
+    color: green;
+} */
+
+/* background */
+
+/* .box{
+    padding: 110px;
+    background: red;
+    text-align: center;
+    background: url(cr7.jfif);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+} */
+
+/* linearGradient */
+/* .box {
+  height: 550px;
+  background: linear-gradient(to bottom,red, blue);(defalt top to bottom)
+} */
+
+/* angle Based */
+
+/* .box {
+  height: 550px;
+  background: linear-gradient( purple, blue);
+} */
